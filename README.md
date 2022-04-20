@@ -7,5 +7,7 @@ Portfolio for Najmi Farhan
 * Data Presentation
 
 
+![](https://github.com/NFarhan11/da_mexcel_project/blob/main/visualization.PNG)
+
 # [Project 2: Generate_Schedule with Genetic Algorithm](https://github.com/tribasuki74/Generate_Schedule)
 Developing a program that can generate a schedule that use Genetic Algorithm for optimization. Databases also developed for the input and the output.

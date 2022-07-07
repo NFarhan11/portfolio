@@ -9,5 +9,10 @@ Portfolio for Najmi Farhan
 
 ![](images/visualization.PNG)
 
-# [Project 2: Generate_Schedule with Genetic Algorithm](https://github.com/tribasuki74/Generate_Schedule)
-Developing a program that can generate a schedule that use Genetic Algorithm for optimization. Databases also developed for the input and the output.
+# Project 2: Analysis of OT Utilization by Subspecialties
+* Analyse the past years data specifically during 2019.
+* Figure out the utilization of OT for each subspecialties.
+* Presentation of Data.
+
+
+![](images/otutilization.png)
